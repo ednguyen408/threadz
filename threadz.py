@@ -6,6 +6,7 @@ from email.mime.text import MIMEText
 from threading import Thread
 from time import sleep
 
+#sender must be a gmail account
 sender = ""
 sender_pass = ""
 recipient = ""
